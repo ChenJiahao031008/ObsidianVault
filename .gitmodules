@@ -1,0 +1,3 @@
+[submodule "reading_knowledge_bank"]
+	path = reading_knowledge_bank
+	url = git@github.com:ChenJiahao031008/reading_knowledge_bank.git
